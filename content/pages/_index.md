@@ -23,4 +23,4 @@ To disable this feature, either delete the parent folder, or set `draft = true` 
 After renaming or deleting the parent folder, you may wish to update any `[[menu.main]]` menu links to it in the `config.toml`.
 
 Here's list of viruses covered in our lecure:
-* [Herpesviruses](/herpesvirus/)
+* [Herpesviruses](/pages/herpesvirus/)
