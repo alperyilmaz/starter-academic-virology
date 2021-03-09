@@ -66,7 +66,8 @@ Summary:
 
 # What is Herpes? | Can Herpes be Cured?
 [video link](https://www.youtube.com/watch?v=MiEIdTt97mo)
-{{< https://www.youtube.com/watch?v=MiEIdTt97mo >}}
+
+{{< youtube MiEIdTt97mo >}}
 
 Summary: 
 * What is Herpes? [link](https://www.youtube.com/watch?v=MiEIdTt97mo)
