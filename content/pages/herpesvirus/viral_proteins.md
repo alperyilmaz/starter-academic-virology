@@ -18,7 +18,7 @@ type: docs
 <div style="height: 300px; width: auto; position: relative;" class='viewer_3Dmoljs' data-pdb='5B1Q' data-backgroundcolor='#23252f' data-style='stick'></div>
 
 
-<center>PDB ID of this protein is: <a href='https://www.rcsb.org/3d-view/5B1Q' target='_blank' title='Wiew 5B1Q protein on RSCB.' >5B1Q</a></center>
+<center>PDB ID of this protein is: <a href='https://www.rcsb.org/3d-view/5B1Q' target='_blank' class='button' title='Wiew 5B1Q protein on RSCB.' >5B1Q</a></center>
 
 <button onclick='https://www.rcsb.org/3d-view/5B1Q'>Protein</button>
 
