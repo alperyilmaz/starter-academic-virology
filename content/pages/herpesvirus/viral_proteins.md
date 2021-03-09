@@ -11,7 +11,7 @@ toc: true
 type: docs
 ---
 
-<script type="text/javascript" src="https://3Dmol.org/build/3Dmol-lite.js" defer></script>
+<script type="text/javascript" src="https://3Dmol.org/build/3Dmol-min.js" defer></script>
 
 ### Tegument protein U14
 PDB ID of this protein is [5B1Q](https://www.rcsb.org/3d-view/5B1Q)
