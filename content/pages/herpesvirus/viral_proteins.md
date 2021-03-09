@@ -19,35 +19,6 @@ type: docs
 <div align='center'>
 
 PDB ID of this protein is: [5B1Q](https://www.rcsb.org/3d-view/5B1Q '5B1Q Protein')</div>
-
-
-<style>
-.button {
-  display: inline-block;
-  border-radius: 4px;
-  background-color: #f4511e;
-  border: none;
-  color: #FFFFFF;
-  text-align: center;
-  font-size: 28px;
-  padding: 20px;
-  width: 200px;
-  transition: all 0.5s;
-  cursor: pointer;
-  margin: 5px;
-}
-
-.button span {
-  cursor: pointer;
-  display: inline-block;
-  position: relative;
-  transition: 0.5s;
-}
-
-.button span:after {
-  content: '\00bb';
-</style>
-
  
 ---
 
