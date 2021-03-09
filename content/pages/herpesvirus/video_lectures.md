@@ -26,11 +26,28 @@ type: docs
 Summary: 
 * List of human herpesviruses [link](https://youtu.be/u3We3ItXjOY?t=46)
 
-# Herpes Disease
+# Herpes Simplex Virus Replication Steps
 
-[video link](https://www.youtube.com/watch?v=Q_YXwTJpHwk)
+[click](https://www.youtube.com/watch?v=fH1zS7hlW54)
 
-{{< https://youtu.be/Q_YXwTJpHwk >}}
+{{< youtube fH1zS7hlW54 >}}
 
 Summary:
-* [link](https://www.youtube.com/watch?v=Q_YXwTJpHwk)
+* Animation [link](https://youtu.be/fH1zS7hlW54?t=52)
+
+# General knowledge about Herpes (causes, symptoms, diagnosis, treatment, pathology)
+
+[video link](https://www.youtube.com/watch?v=IOUnXeqNyMs)
+
+{{< youtube IOUnXeqNyMs >}}
+Summary:
+* Infection areas of Hsv [link](https://youtu.be/IOUnXeqNyMs?t=338)
+
+# Herpes Virus Treatment
+[video link](https://www.youtube.com/watch?v=gc9SXl5EeuQ)
+
+{{< youtube gc9SXl5EeuQ >}}
+Summary:
+* Oral acyclovir [link](https://www.youtube.com/watch?v=gc9SXl5EeuQ=52)
+
+
