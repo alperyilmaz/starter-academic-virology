@@ -32,3 +32,11 @@ ___
 
 Summary: 
 * List of human herpesviruses [link](https://youtu.be/u3We3ItXjOY?t=46)
+# Herpes Simplex Virus Replication Steps
+
+[click](https://www.youtube.com/watch?v=fH1zS7hlW54)
+
+{{< youtube w7Ft2ymGmfc >}}
+
+Summary:
+* Animation [link](https://youtu.be/fH1zS7hlW54?t=52)
