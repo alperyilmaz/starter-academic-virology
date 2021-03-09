@@ -23,6 +23,6 @@ type: docs
 
 ### Herpes simplex virus type 1 (HSV-1) pUL6 portal protein, dodecameric complex:
 
-<div style="height: 300px; width: auto; position: relative;" class='viewer_3Dmoljs' data-pdb='6OD7' data-backgroundcolor='#23252f' data-style='stick' text-align=center><p>PDB ID of this protein is: [6OD7](https://www.rcsb.org/3d-view/6OD7</p></div>
+<div style="height: 300px; width: auto; position: relative;" class='viewer_3Dmoljs' data-pdb='6OD7' data-backgroundcolor='#23252f' data-style='stick' text-align=center>PDB ID of this protein is: [6OD7](https://www.rcsb.org/3d-view/6OD7</div>
 
 PDB ID of this protein is: [6OD7](https://www.rcsb.org/3d-view/6OD7)
