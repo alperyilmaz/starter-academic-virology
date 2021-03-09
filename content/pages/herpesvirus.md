@@ -1,12 +1,12 @@
 ---
 date: "2021-03-09T00:00:00+03:00"
 draft: false
-linktitle: Example Link
+linktitle: Herpesviruses Link
 menu:
   tutorial:
-    parent: Example Topic
+    parent: Herpesviruses Content
     weight: 1
-title: Example Page
+title: Herpesviruses Title
 toc: true
 type: docs
 ---
