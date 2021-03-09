@@ -15,7 +15,7 @@ type: docs
 
 ### Human herpesvirus 6B tegument protein U14:
 
-<div style="height: 300px; width: auto; position: relative;" class='viewer_3Dmoljs' data-pdb='5B1Q' data-backgroundcolor=transparent data-style='stick'></div>
+<div style="height: 300px; width: auto; position: relative;" class='viewer_3Dmoljs' data-pdb='5B1Q' data-style='stick'></div>
 
 PDB ID of this protein is: [5B1Q](https://www.rcsb.org/3d-view/5B1Q)
 
@@ -23,6 +23,6 @@ PDB ID of this protein is: [5B1Q](https://www.rcsb.org/3d-view/5B1Q)
 
 ### Herpes simplex virus type 1 (HSV-1) pUL6 portal protein, dodecameric complex:
 
-<div style="height: 300px; width: auto; position: relative;" class='viewer_3Dmoljs' data-pdb='6OD7' data-backgroundcolor=inherit data-style='stick'></div>
+<div style="height: 300px; width: auto; position: relative;" class='viewer_3Dmoljs' data-pdb='6OD7' data-backgroundcolor='inherit' data-style='stick'></div>
 
 PDB ID of this protein is: [6OD7](https://www.rcsb.org/3d-view/6OD7)
