@@ -51,3 +51,6 @@ Summary:
 * Oral acyclovir [link](https://www.youtube.com/watch?v=gc9SXl5EeuQ=52)
 
 
+#Herpes Virus treatment
+[See link](https://www.youtube.com/watch?v=gc9SXl5EeuQ)
+{{< youtube gc9SXl5EeuQ>}}
