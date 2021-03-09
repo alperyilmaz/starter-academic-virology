@@ -20,7 +20,7 @@ type: docs
 <div style="height: 300px; width: auto; position: relative;" class='viewer_3Dmoljs' data-pdb='5B1Q' data-backgroundcolor='#23252f' data-style='stick'></div>
 <div align='center'>
 
-[View 5B1Q in RCSB Protein Database](https://www.rcsb.org/3d-view/5B1Q '5B1Q Protein Structure')</div>
+[View 5B1Q in RCSB PDB](https://www.rcsb.org/3d-view/5B1Q '5B1Q Protein structure.')</div>
  
 ---
 
@@ -30,7 +30,7 @@ type: docs
 
 <div align='center'>
 
-[View 6OD7 in RCSB Protein Database](https://www.rcsb.org/3d-view/6OD7 '6OD7 Protein Structure')</div>
+[View 6OD7 in RCSB PDB](https://www.rcsb.org/3d-view/6OD7 '6OD7 Protein structure.')</div>
 
 ---
 
