@@ -20,8 +20,7 @@ type: docs
 <div style="height: 300px; width: auto; position: relative;" class='viewer_3Dmoljs' data-pdb='5B1Q' data-backgroundcolor='#23252f' data-style='stick'></div>
 <div align='center'>
 
-5B1Q<br>
-[View in RCSB Protein Database](https://www.rcsb.org/3d-view/5B1Q '5B1Q Protein structure.')</div>
+5B1Q<br>[View in RCSB Protein Database](https://www.rcsb.org/3d-view/5B1Q '5B1Q Protein structure')</div>
  
 ---
 
@@ -31,8 +30,8 @@ type: docs
 
 <div align='center'>
 
-6OD7<br>[View in RCSB Protein Database](https://www.rcsb.org/3d-view/6OD7 '6OD7 Protein structure.')</div>
+6OD7<br>[View in RCSB Protein Database](https://www.rcsb.org/3d-view/6OD7 '6OD7 Protein structure')</div>
 
 ---
 
-*RCSB PDB stands for; Research Collaboratory for Structural Bioinformatics Protein Database
+*RCSB PDB stands for; [Research Collaboratory for Structural Bioinformatics Protein Database](https://www.rscb.org 'RSCB Homepage')
