@@ -54,3 +54,12 @@ Summary:
 #Herpes Virus treatment
 [See link](https://www.youtube.com/watch?v=gc9SXl5EeuQ)
 {{< youtube gc9SXl5EeuQ>}}
+
+# Herpes Disease
+
+[video link](https://www.youtube.com/watch?v=Q_YXwTJpHwk)
+
+{{< https://youtu.be/Q_YXwTJpHwk >}}
+
+Summary:
+* Herpes disease [link](https://www.youtube.com/watch?v=Q_YXwTJpHwk)
