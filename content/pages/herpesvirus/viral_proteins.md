@@ -20,7 +20,7 @@ type: docs
 <div style="height: 300px; width: auto; position: relative;" class='viewer_3Dmoljs' data-pdb='5B1Q' data-backgroundcolor='#23252f' data-style='stick'></div>
 <div align='center'>
 
-PDB ID of this protein is: [5B1Q](https://www.rcsb.org/3d-view/5B1Q '5B1Q Protein')</div>
+[View 5B1Q in RCSB Protein Database](https://www.rcsb.org/3d-view/5B1Q '5B1Q Protein Structure')</div>
  
 ---
 
@@ -30,6 +30,8 @@ PDB ID of this protein is: [5B1Q](https://www.rcsb.org/3d-view/5B1Q '5B1Q Protei
 
 <div align='center'>
 
-PDB ID of this protein is: [6OD7](https://www.rcsb.org/3d-view/6OD7 '6OD7 Protein')</div>
+[View 6OD7 in RCSB Protein Database](https://www.rcsb.org/3d-view/6OD7 '6OD7 Protein Structure')</div>
 
 ---
+
+*RCSB PDB stands for; Research Collaboratory for Structural Bioinformatics Protein Database
