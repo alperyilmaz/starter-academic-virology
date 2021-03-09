@@ -20,8 +20,35 @@ type: docs
 
 <center>PDB ID of this protein is: <a href='https://www.rcsb.org/3d-view/5B1Q' target='_blank' class='button' title='Wiew 5B1Q protein on RSCB.'>5B1Q</a></center>
 
-<button onclick='https://www.rcsb.org/3d-view/5B1Q'>Protein</button>
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+.button {
+  display: inline-block;
+  border-radius: 4px;
+  background-color: #f4511e;
+  border: none;
+  color: #FFFFFF;
+  text-align: center;
+  font-size: 28px;
+  padding: 20px;
+  width: 200px;
+  transition: all 0.5s;
+  cursor: pointer;
+  margin: 5px;
+}
 
+.button span {
+  cursor: pointer;
+  display: inline-block;
+  position: relative;
+  transition: 0.5s;
+}
+
+.button span:after {
+  content: '\00bb';
+  
 ---
 
 ### Herpes simplex virus type 1 (HSV-1) pUL6 portal protein, dodecameric complex:
