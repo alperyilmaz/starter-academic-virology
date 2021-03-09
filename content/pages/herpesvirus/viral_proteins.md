@@ -6,18 +6,18 @@ menu:
   tutorial:
     parent: Herpesvirus
     weight: 6
-title: Structures of Herpesirus proteins
+title: Structures of Herpesvirus proteins
 toc: true
 type: docs
 ---
 
 <!--<script type="text/javascript" src="https://3Dmol.org/build/3Dmol-min.js" defer></script>-->
 
-### Tegument protein U14
+### Human herpesvirus 6B tegument protein U14:
 PDB ID of this protein is [5B1Q](https://www.rcsb.org/3d-view/5B1Q)
 
 <div style="height: 400px; width: 400px; position: relative;" class='viewer_3Dmoljs' data-pdb='5B1Q' data-backgroundcolor='#00000000' data-style='stick'></div>
-
+---
 ### Herpes simplex virus type 1 (HSV-1) pUL6 portal protein, dodecameric complex:
 PDB ID of this protein is [6OD7](https://www.rcsb.org/3d-view/6OD7)
 
