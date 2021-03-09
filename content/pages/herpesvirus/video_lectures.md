@@ -28,7 +28,7 @@ Summary:
 
 # Herpes Disease
 
-[video link] (https://www.youtube.com/watch?v=Q_YXwTJpHwk)
+[video link](https://www.youtube.com/watch?v=Q_YXwTJpHwk)
 
 {{< https://youtu.be/Q_YXwTJpHwk >}}
 
