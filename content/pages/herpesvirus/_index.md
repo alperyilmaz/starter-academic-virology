@@ -4,14 +4,14 @@ draft: false
 linktitle: Herpesviruses Link
 menu:
   tutorial:
-    parent: Herpesviruses Content
+    parent: Herpesvirus
     weight: 1
-title: Herpesviruses Title
+title: Herpesviruses Main Page
 toc: true
 type: docs
 ---
 
-In this tutorial, I'll share my top 10 tips for getting started with Academic:
+This is main page for Herpesviruses
 
 ## Tip 1
 
