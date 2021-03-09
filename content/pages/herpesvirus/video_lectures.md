@@ -34,3 +34,12 @@ Summary:
 
 Summary:
 * Animation [link](https://youtu.be/fH1zS7hlW54?t=52)
+
+# General knowledge about Herpes (causes, symptoms, diagnosis, treatment, pathology)
+
+[video link](https://www.youtube.com/watch?v=IOUnXeqNyMs)
+
+{{< youtube IOUnXeqNyMs >}}
+Summary:
+* Infection areas of Hsv [link](https://youtu.be/IOUnXeqNyMs?t=338)
+
