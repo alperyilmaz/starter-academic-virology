@@ -17,3 +17,11 @@ type: docs
 
 # iBiology "Title"
 
+# Introduction to Human Herpesviruses
+
+[video link](https://www.youtube.com/watch?v=u3We3ItXjOY)
+
+{{< youtube u3We3ItXjOY >}}
+
+Summary: 
+* List of human herpesviruses [link](https://youtu.be/u3We3ItXjOY?t=46)
