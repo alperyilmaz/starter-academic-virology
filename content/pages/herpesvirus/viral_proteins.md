@@ -34,4 +34,4 @@ type: docs
 
 ---
 
-*RCSB PDB stands for; [Research Collaboratory for Structural Bioinformatics Protein Database](https://www.rscb.org 'RSCB Homepage')
+*RCSB PDB stands for:<br>[Research Collaboratory for Structural Bioinformatics Protein Database](https://www.rscb.org 'RSCB Homepage')
