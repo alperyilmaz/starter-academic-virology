@@ -59,7 +59,7 @@ Summary:
 
 [video link](https://www.youtube.com/watch?v=Q_YXwTJpHwk)
 
-{{< https://youtu.be/Q_YXwTJpHwk >}}
+{{< youtube Q_YXwTJpHwk >}}
 
 Summary:
 * Herpes disease [link](https://www.youtube.com/watch?v=Q_YXwTJpHwk)
