@@ -1,9 +1,3 @@
 <script type="text/javascript" src="https://3Dmol.org/build/3Dmol-min.js" defer></script>
-<div style="height: 89vm; height:89vmin; width: auto; position: relative;" class='viewer_3Dmoljs' data-pdb='{{.Get 0}}' data-backgroundcolor='#23252f' data-style='cartoon:color~spectrum,style~parabola,arrows~1' data-viewstyle='outline'></div>
-
-
-<div align='center'>
-
-{{.Get 0}}<br>[View in RCSB Protein Database](https://www.rcsb.org/3d-view/{{.Get 0}} '{{.Get 0}} Protein structure')
-
-</div>
+<div style="height: 100vm; height:100vmin; width: auto; position: relative;" class='viewer_3Dmoljs' data-pdb='{{.Get 0}}' data-backgroundcolor='#23252f' data-style='cartoon:color~spectrum,style~parabola,arrows~1' data-viewstyle='outline'></div>
+<div align='center'>{{.Get 0}}<br>[View in RCSB Protein Database](https://www.rcsb.org/3d-view/{{.Get 0}} '{{.Get 0}} Protein structure')</div>
