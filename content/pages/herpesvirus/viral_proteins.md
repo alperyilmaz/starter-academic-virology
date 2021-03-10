@@ -13,7 +13,6 @@ type: docs
 
 ---
 
-
 ### Human herpesvirus 6B tegument protein U14:
 
 {{< pdb 5B1Q >}}
@@ -26,4 +25,4 @@ type: docs
 
 ---
 
-*RCSB PDB stands for:<br>[Research Collaboratory for Structural Bioinformatics Protein Database](https://www.rscb.org 'RSCB Homepage')
+*RCSB PDB stands for:<div align='center'><br>[Research Collaboratory for Structural Bioinformatics Protein Database](https://www.rscb.org 'RSCB Homepage')</div>
