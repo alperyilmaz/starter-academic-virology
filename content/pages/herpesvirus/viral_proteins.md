@@ -31,9 +31,9 @@ type: docs
 
 6OD7<br>[View in RCSB Protein Database](https://www.rcsb.org/3d-view/6OD7 '6OD7 Protein structure')</div>
 
-<div style="height: 300px; width: auto; position: relative;" class='viewer_3Dmoljs' data-pdb='6OD7' data-backgroundcolor='#23252f' data-style='caetoon;stick'></div>
+<div style="height: 300px; width: auto; position: relative;" class='viewer_3Dmoljs' data-pdb='6OD7' data-backgroundcolor='#23252f' data-style='cartoon;stick'></div>
 
-<div style="height: 300px; width: auto; position: relative;" class='viewer_3Dmoljs' data-pdb='6OD7' data-backgroundcolor='#23252f' data-style='caetoon;sphere'></div>
+<div style="height: 300px; width: auto; position: relative;" class='viewer_3Dmoljs' data-pdb='6OD7' data-backgroundcolor='#23252f' data-style='cartoon;sphere'></div>
 
 
 ---
