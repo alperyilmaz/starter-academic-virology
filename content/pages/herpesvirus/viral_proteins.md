@@ -26,12 +26,22 @@ type: docs
 ### Herpes simplex virus type 1 (HSV-1) pUL6 portal protein, dodecameric complex:
 
 <div style="height: 350px; width: auto; position: relative;" class='viewer_3Dmoljs' data-pdb='5B1Q' data-backgroundcolor='#23252f' data-style='cartoon:color~spectrum,style~parabola,arrows~1' data-viewstyle='outline'></div>
-<div style="height: vmin; width: auto; position: relative;" class='viewer_3Dmoljs' data-pdb='5B1Q' data-backgroundcolor='#23252f' data-style='cartoon:color~spectrum,style~parabola,arrows~1' data-viewstyle='outline'></div>
-<div style="height: vmax; width: auto; position: relative;" class='viewer_3Dmoljs' data-pdb='5B1Q' data-backgroundcolor='#23252f' data-style='cartoon:color~spectrum,style~parabola,arrows~1' data-viewstyle='outline'></div>
-<div style="height: vmin; width: 80vw; position: relative;" class='viewer_3Dmoljs' data-pdb='5B1Q' data-backgroundcolor='#23252f' data-style='cartoon:color~spectrum,style~parabola,arrows~1' data-viewstyle='outline'></div>
-<div style="height: vmax; width: 80vw; position: relative;" class='viewer_3Dmoljs' data-pdb='5B1Q' data-backgroundcolor='#23252f' data-style='cartoon:color~spectrum,style~parabola,arrows~1' data-viewstyle='outline'></div>
-<div style="height: vmin; width: 90vw; position: relative;" class='viewer_3Dmoljs' data-pdb='5B1Q' data-backgroundcolor='#23252f' data-style='cartoon:color~spectrum,style~parabola,arrows~1' data-viewstyle='outline'></div>
-<div style="height: vmax; width: 90vw; position: relative;" class='viewer_3Dmoljs' data-pdb='5B1Q' data-backgroundcolor='#23252f' data-style='cartoon:color~spectrum,style~parabola,arrows~1' data-viewstyle='outline'></div>
+
+div{
+    width: 100vw; 
+    height: 100vh;   
+    max-height: 100vw;
+    max-width: 100vh;
+    position: absolute;
+    top:0;
+    bottom:0;
+    left:0;
+    right:0;
+    margin: auto;
+}
+<div class='viewer_3Dmoljs' data-pdb='5B1Q' data-backgroundcolor='#23252f' data-style='cartoon:color~spectrum,style~parabola,arrows~1' data-viewstyle='outline'></div>
+
+
 
 <div align='center'>
 
