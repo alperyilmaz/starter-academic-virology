@@ -16,4 +16,3 @@ Please share any visual or illustration  that explains the topics discussed in l
 # Virus entry
 
 # Cascade of stages
-

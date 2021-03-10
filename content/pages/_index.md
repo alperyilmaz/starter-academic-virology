@@ -7,7 +7,7 @@ menu:
     weight: 1
 title: Overview
 toc: true
-type: docs
+type: book
 ---
 
 This feature can be used for publishing content such as:
