@@ -25,7 +25,7 @@ type: docs
 
 ### Herpes simplex virus type 1 (HSV-1) pUL6 portal protein, dodecameric complex:
 
-<div style="height: 90vm; width: auto; position: relative;" class='viewer_3Dmoljs' data-pdb='5B1Q' data-backgroundcolor='#23252f' data-style='cartoon:color~spectrum,style~parabola,arrows~1' data-viewstyle='outline'></div>
+<div style="height: 90vm; height:90vmin; width: auto; position: relative;" class='viewer_3Dmoljs' data-pdb='5B1Q' data-backgroundcolor='#23252f' data-style='cartoon:color~spectrum,style~parabola,arrows~1' data-viewstyle='outline'></div>
 
 ---
 
