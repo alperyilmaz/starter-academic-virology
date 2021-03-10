@@ -15,6 +15,8 @@ type: docs
 
 ### Human herpesvirus 6B tegument protein U14:
 
+{{< pdb 5B1Q 0 >}}
+{{< pdb 5B1Q 0.68 >}}
 {{< pdb 5B1Q >}}
 
 ---
