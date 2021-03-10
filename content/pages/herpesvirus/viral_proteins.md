@@ -39,7 +39,8 @@ div{
     right:0;
     margin: auto;
 }
-<div class='viewer_3Dmoljs' data-pdb='5B1Q' data-backgroundcolor='#23252f' data-style='cartoon:color~spectrum,style~parabola,arrows~1' data-viewstyle='outline'></div>
+<div style='width: 70vw; height: 70vh; max-width: 90vh; max-height: 90vw' class='viewer_3Dmoljs' data-pdb='5B1Q' data-backgroundcolor='#23252f' data-style='cartoon:color~spectrum,style~parabola,arrows~1' data-viewstyle='outline'></div>
+<div style='width: 70vw; height: 70vh; max-width: 90vh; max-height: 90vw; position: absolute; top:0; right:0; bottom:0; left:0; margin:auto' class='viewer_3Dmoljs' data-pdb='5B1Q' data-backgroundcolor='#23252f' data-style='cartoon:color~spectrum,style~parabola,arrows~1' data-viewstyle='outline'></div>
 
 
 
