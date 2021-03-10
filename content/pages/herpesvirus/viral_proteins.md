@@ -25,24 +25,15 @@ type: docs
 
 ### Herpes simplex virus type 1 (HSV-1) pUL6 portal protein, dodecameric complex:
 
-<div style="height: 350px; width: auto; position: relative;" class='viewer_3Dmoljs' data-pdb='5B1Q' data-backgroundcolor='#23252f' data-style='cartoon:color~spectrum,style~parabola,arrows~1' data-viewstyle='outline'></div>
+<div style="height: 90vw; width: auto; position: relative;" class='viewer_3Dmoljs' data-pdb='5B1Q' data-backgroundcolor='#23252f' data-style='cartoon:color~spectrum,style~parabola,arrows~1' data-viewstyle='outline'></div>
 
-div{
-    width: 100vw; 
-    height: 100vh;   
-    max-height: 100vw;
-    max-width: 100vh;
-    position: absolute;
-    top:0;
-    bottom:0;
-    left:0;
-    right:0;
-    margin: auto;
-}
+---
+
+<div style="height: 100vw; width: 100vw; position: relative;" class='viewer_3Dmoljs' data-pdb='5B1Q' data-backgroundcolor='#23252f' data-style='cartoon:color~spectrum,style~parabola,arrows~1' data-viewstyle='outline'></div>
+
+---
+
 <div style='width: 70vw; height: 70vh; max-width: 90vh; max-height: 90vw' class='viewer_3Dmoljs' data-pdb='5B1Q' data-backgroundcolor='#23252f' data-style='cartoon:color~spectrum,style~parabola,arrows~1' data-viewstyle='outline'></div>
-<div style='width: 70vw; height: 70vh; max-width: 90vh; max-height: 90vw; position: absolute; top:0; right:0; bottom:0; left:0; margin:auto' class='viewer_3Dmoljs' data-pdb='5B1Q' data-backgroundcolor='#23252f' data-style='cartoon:color~spectrum,style~parabola,arrows~1' data-viewstyle='outline'></div>
-
-
 
 <div align='center'>
 
